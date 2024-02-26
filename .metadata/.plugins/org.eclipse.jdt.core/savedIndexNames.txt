@@ -1,0 +1,6 @@
+INDEX VERSION 1.132+C:\Workspaces\ws-spring-microservices\.metadata\.plugins\org.eclipse.jdt.core
+1970296511.index
+3946766918.index
+3474131134.index
+1865797976.index
+1263008794.index
