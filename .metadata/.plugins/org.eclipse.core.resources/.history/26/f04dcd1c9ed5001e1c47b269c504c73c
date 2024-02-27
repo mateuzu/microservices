@@ -1,0 +1,19 @@
+package com.ms.user.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.ms.user.controller.dto.UserRecordDto;
+import com.ms.user.model.UserModel;
+import com.ms.user.repository.UserRepository;
+
+@Service
+public class UserService {
+
+	@Autowired
+	private UserRepository userRepository;
+	
+	public UserModel saveUser(UserRecordDto userRecordDto) {
+		return null;
+	}
+}

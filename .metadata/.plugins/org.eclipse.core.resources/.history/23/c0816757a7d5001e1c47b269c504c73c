@@ -1,0 +1,10 @@
+server.port=8082
+
+spring.datasource.url=jdbc:postgresql://localhost:5432/ms-email
+spring.datasource.username=postgres
+spring.datasource.password=root
+spring.jpa.hibernate.ddl-auto=update
+
+spring.rabbitmq.addresses=amqps://hrpzcymu:Mukp_0yKMWSdbit-ieKTB-bF1TFJHE5v@rattlesnake.rmq.cloudamqp.com/hrpzcymu
+
+broker.queue.email.name=defalut.email
