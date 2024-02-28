@@ -10,5 +10,5 @@ import com.ms.user.model.UserModel;
 
 public interface UserRepository extends JpaRepository<UserModel, UUID> {
 
-	public Optional<UserModel> findByEmailContainingIgnoreCaseOrderByName(@Param("email") String email);
+	public Optional<UserModel> findByEmailContainingIgnoreCase(@Param("email") String email);
 }

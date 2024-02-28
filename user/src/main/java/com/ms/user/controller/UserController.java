@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.ms.user.controller.dto.UserRecordDto;
+import com.ms.user.dto.UserRecordDto;
 import com.ms.user.model.UserModel;
 import com.ms.user.service.UserService;
 
