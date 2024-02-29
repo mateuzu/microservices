@@ -431,3 +431,206 @@
 2024-02-28 16:37:07,385 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-02-28 16:37:07,399 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-02-28 16:37:07,402 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\user\src\test\resources
+2024-02-28 17:03:46,263 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-28 17:03:46,382 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-28 17:03:46,387 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-28 17:04:28,667 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-28 17:04:28,737 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-28 17:04:28,741 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-28 17:08:47,242 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-28 17:08:47,246 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-28 17:08:47,251 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-28 17:08:51,854 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-28 17:08:51,862 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-28 17:08:51,865 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-28 17:09:06,760 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-28 17:09:06,767 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-28 17:09:06,769 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-28 17:10:12,158 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-28 17:10:12,162 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-28 17:10:12,165 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-28 17:10:46,785 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-28 17:10:46,791 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-28 17:10:46,796 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-28 17:11:07,118 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-28 17:11:07,123 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-28 17:11:07,126 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-28 17:12:06,445 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-28 17:12:06,451 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-28 17:12:06,453 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\user\src\test\resources
+2024-02-28 17:13:27,503 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-28 17:13:27,506 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-28 17:13:27,510 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 12:11:25,403 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-02-29 15:31:49,921 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:31:49,980 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:31:49,984 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 15:33:00,188 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:33:00,252 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:33:00,258 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 15:35:41,249 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:35:41,259 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:35:41,262 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 15:37:28,981 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:37:28,988 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:37:28,992 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 15:43:22,039 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:43:22,044 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:43:22,047 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 15:43:56,212 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:43:56,217 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:43:56,220 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 15:44:17,303 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:44:17,339 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:44:17,344 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 15:44:35,745 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:44:35,751 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:44:35,755 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 15:45:12,124 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:45:12,166 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:45:12,170 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 15:45:21,045 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:45:21,050 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:45:21,053 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 15:45:39,677 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:45:39,681 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:45:39,685 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 15:46:30,201 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:46:30,204 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:46:30,206 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 15:46:45,451 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:46:45,456 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:46:45,459 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 15:47:17,678 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:47:17,711 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:47:17,715 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 15:47:19,785 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 15:47:19,790 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 15:47:19,794 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 16:32:43,114 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:32:43,115 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:32:43,119 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 16:33:37,207 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:33:37,208 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:33:37,210 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 16:33:53,730 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 16:33:53,734 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:33:53,737 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 16:33:59,131 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 16:33:59,135 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:33:59,138 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 16:34:07,460 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:34:07,461 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:34:07,465 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 16:34:20,152 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:34:20,153 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:34:20,154 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 16:46:20,980 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 16:46:21,029 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:46:21,032 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 16:49:17,094 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 16:49:17,140 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:49:17,143 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\user\src\test\resources
+2024-02-29 16:49:19,326 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 16:49:19,371 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:49:19,374 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\user\src\test\resources
+2024-02-29 16:52:38,957 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:52:38,957 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:52:38,962 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 16:52:56,195 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:52:56,195 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:52:56,199 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 16:53:00,349 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 16:53:00,363 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:53:00,367 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 16:57:50,984 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-02-29 16:57:51,747 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ms:email:0.0.1-SNAPSHOT @ C:\Workspaces\ws-spring-microservices\email\pom.xml.
+2024-02-29 16:57:52,127 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ms:user:0.0.1-SNAPSHOT @ C:\Workspaces\ws-spring-microservices\user\pom.xml.
+2024-02-29 16:57:52,724 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /email/src/main/java
+2024-02-29 16:57:52,725 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /email/src/main/resources
+2024-02-29 16:57:52,725 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /email/src/main/resources
+2024-02-29 16:57:52,725 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /email/src/test/java
+2024-02-29 16:57:52,987 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /user/src/main/java
+2024-02-29 16:57:52,987 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /user/src/main/resources
+2024-02-29 16:57:52,988 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /user/src/main/resources
+2024-02-29 16:57:52,988 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /user/src/test/java
+2024-02-29 16:57:53,367 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 2 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 0,00 sec 
+2024-02-29 16:57:53,671 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 16:57:53,688 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:57:53,691 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 16:57:53,953 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 16:57:53,971 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 16:57:53,976 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\user\src\test\resources
+2024-02-29 17:03:30,585 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 17:03:30,603 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 17:03:30,608 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\user\src\test\resources
+2024-02-29 17:03:49,357 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 17:03:49,373 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 17:03:49,376 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\user\src\test\resources
+2024-02-29 17:04:18,755 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [346])
+2024-02-29 17:04:18,763 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2024-02-29 17:04:18,764 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2024-02-29 17:04:18,765 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2024-02-29 17:04:18,765 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2024-02-29 17:04:18,766 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2024-02-29 17:04:18,766 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2024-02-29 17:04:18,767 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2024-02-29 17:04:18,767 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2024-02-29 17:04:18,769 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2024-02-29 17:04:18,770 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2024-02-29 17:04:18,770 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2024-02-29 17:04:18,770 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2024-02-29 17:04:18,770 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2024-02-29 17:04:18,771 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2024-02-29 17:04:18,771 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2024-02-29 17:04:18,771 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2024-02-29 17:04:18,771 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2024-02-29 17:04:18,771 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2024-02-29 17:04:18,771 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2024-02-29 17:04:18,772 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2024-02-29 17:04:18,772 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2024-02-29 17:04:18,772 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2024-02-29 17:04:18,772 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2024-02-29 17:04:18,773 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2024-02-29 17:04:18,773 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2024-02-29 17:04:18,773 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2024-02-29 17:04:18,773 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-02-29 17:04:18,773 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-02-29 17:04:18,773 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2024-02-29 17:04:18,774 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2024-02-29 17:04:18,774 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2024-02-29 17:04:18,774 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2024-02-29 17:04:18,774 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2024-02-29 17:04:18,774 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2024-02-29 17:04:18,774 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2024-02-29 17:04:18,775 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2024-02-29 17:04:18,775 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2024-02-29 17:04:18,776 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [23])
+2024-02-29 17:04:18,780 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\com.google.guava_31.1.0.jre.jar
+2024-02-29 17:04:18,780 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [580])
+2024-02-29 17:04:18,781 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\slf4j.api_1.7.36.jar
+2024-02-29 17:04:18,781 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [50])
+2024-02-29 17:04:18,783 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-02-29 17:04:18,783 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [48])
+2024-02-29 17:04:18,785 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2024-02-29 17:04:18,785 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [73])
+2024-02-29 17:04:18,787 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2024-02-29 17:04:18,787 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [25])
+2024-02-29 17:04:18,788 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.18.0.RELEASE\plugins\com.google.guava.failureaccess_1.0.1.jar
+2024-02-29 17:04:18,793 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Workspaces\ws-spring-microservices\email":
+2024-02-29 17:04:18,793 [Worker-80: Launching Executing verify in C__Workspaces_ws-spring-microservices_email] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always verify
+2024-02-29 17:07:17,396 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 17:07:17,402 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 17:07:17,404 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 17:07:17,522 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 17:07:17,528 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 17:07:17,531 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\user\src\test\resources
+2024-02-29 17:07:20,304 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 17:07:20,310 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 17:07:20,313 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\email\src\test\resources
+2024-02-29 17:07:20,347 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 17:07:20,362 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 17:07:20,365 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\user\src\test\resources
+2024-02-29 17:07:30,788 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-29 17:07:30,791 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-29 17:07:30,793 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Workspaces\ws-spring-microservices\user\src\test\resources

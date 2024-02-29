@@ -24,7 +24,7 @@ public class UserProducer {
 		emailDto.setUserId(userModel.getUserId());
 		emailDto.setEmailTo(userModel.getEmail());
 		emailDto.setSubject("Cadastro realizado com sucesso!");
-		emailDto.setText(userModel.getName() + " , seja bem vindo(a)!" + "\nAgradecemos o seu cadastro!");
+		emailDto.setText("Olá " + userModel.getName() + ", seja bem vindo(a)!" + "\n\nAgradecemos o seu cadastro em nosso sistema! pai apredeu microserviços cumpade");
 		
 		//3 parametros = Exchange, routingKey e a mensagem
 		rabbitTemplate.convertAndSend("", routingKey, emailDto);

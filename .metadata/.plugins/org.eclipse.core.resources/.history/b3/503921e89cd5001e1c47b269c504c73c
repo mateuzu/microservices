@@ -1,5 +1,0 @@
-package com.ms.user.controller.dto;
-
-public record UserRecordDto(String name, String email) {
-
-}
